@@ -1,6 +1,6 @@
 """
 the below code will read data from file
-and find if the number is Happy or Prime
+and find overlapping between the  Happy or Prime Numbers
 """
 
 # !/use/bin/env python3
