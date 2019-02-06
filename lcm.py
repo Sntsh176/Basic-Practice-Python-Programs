@@ -20,7 +20,7 @@ def lcm(x, y):
    return lcm
 
 # change the values of num1 and num2 for a different result
-num1 = 54
+num1 = 28
 num2 = 24
 
 # uncomment the following lines to take input from the user
