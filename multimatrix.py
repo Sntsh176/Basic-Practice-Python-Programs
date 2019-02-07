@@ -24,3 +24,18 @@ for row in range(rowNum):
         multilist[row][col]= row*col
 
 print(multilist)
+
+
+"""
+========================================================================
+========================================================================
+2nd implementtion
+"""
+
+input_str = input("Enter m x n value (5,6) : ")
+
+row,col=[int(x.strip()) for x in input_str.split(',')]
+
+multilist = [m*n for m in range(row) for n in range(col)]
+
+print(multilist)
